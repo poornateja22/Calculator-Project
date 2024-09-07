@@ -6,10 +6,10 @@ This is a simple calculator web application created using HTML, CSS, and JavaScr
 
 ## Table of Contents
 
--[Features](#features)
--[Technologies Used](#technologies-used)
--[How to Use](#how-to-use)
--[Project Structure](#project-structure)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Project Structure](#project-structure)
 
 ## Features
 
